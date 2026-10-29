@@ -1,0 +1,17 @@
+{
+  "type": "backpack_mod:backpack_upgrade",
+  "category": "equipment",
+  "pattern": [
+    " M ",
+    "MBM",
+    " M "
+  ],
+  "key": {
+    "M": "minecraft:gold_ingot",
+    "B": "backpack_mod:iron_backpack"
+  },
+  "result": {
+    "id": "backpack_mod:gold_backpack",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "backpack_mod:item/iron_backpack"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "backpack_mod:backpack_upgrade",
+  "category": "equipment",
+  "pattern": [
+    " M ",
+    "MBM",
+    " M "
+  ],
+  "key": {
+    "M": "minecraft:diamond",
+    "B": "backpack_mod:gold_backpack"
+  },
+  "result": {
+    "id": "backpack_mod:diamond_backpack",
+    "count": 1
+  }
+}

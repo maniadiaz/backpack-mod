@@ -1,0 +1,51 @@
+# Gradle y compilacion
+/.gradle/
+/.gradle-user-home/
+/build/
+/bin/
+/out/
+*.class
+*.log
+diag.txt
+
+# Minecraft: mundos, configuracion local y recursos temporales
+/run/
+/run-data/
+/src/generated/resources/.cache/
+
+# IDE
+/.idea/
+/.settings/
+/.metadata/
+/.classpath
+/.project
+/eclipse/
+*.ipr
+*.iws
+*.iml
+*.launch
+.vscode/
+
+# Python: generadores de recursos
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Credenciales y configuracion personal
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Archivos temporales del sistema y editores
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*.bak
+*~
+
+# Documentacion original del MDK
+forge_README.txt
+forge*changelog.txt

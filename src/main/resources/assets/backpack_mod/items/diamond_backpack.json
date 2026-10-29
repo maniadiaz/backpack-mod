@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "backpack_mod:item/diamond_backpack"
+  }
+}

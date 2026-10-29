@@ -1,0 +1,38 @@
+# See https://docs.minecraftforge.net/en/1.21.x/gettingstarted/modfiles/#modstoml
+# There are lots of things you can do with the mods.toml, and not all fields are included with this MDK
+# References: https://github.com/MinecraftForge/MDKExamples
+
+modLoader="javafml"
+loaderVersion="[66,)"
+license="All Rights Reserved"
+#issueTrackerURL="https://github.com/MyOrganization/MyMod/" #optional
+#clientSideOnly=true #optional, default=false
+
+[[mods]]
+modId="backpack_mod"
+version="1.3.1"
+displayName="Backpack-mod"
+#updateJSONURL="https://example.com/updates.json" #optional
+#displayURL="https://example.com/" #optional
+#logoFile="backpack_mod.png" #optional
+#credits="" #optional
+authors="Mania5diaz" #optional
+#displayTest="MATCH_VERSION" #optional, default=MATCH_VERSION when not clientSideOnly, else IGNORE_ALL_VERSION
+
+description='''Mod de mochilas de Mania5diaz para Minecraft 26.3 y Forge.
+Seis niveles de mochilas equipables, de cuero a netherite, con recetas de mejora que conservan el contenido. Inventario con páginas, siete plantillas de mejora y colocación sobre bloques sólidos. Slot propio, modelo en la espalda y tecla configurable. Botín aleatorio en esqueletos, zombis y creepers. Cada mochila de botín contiene comida, minerales y al menos un libro encantado. Proyecto en desarrollo.'''
+
+[[dependencies.backpack_mod]] #recommended
+    modId="forge"
+    mandatory=true
+    versionRange="[66,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.backpack_mod]] #recommended
+    modId="minecraft"
+    mandatory=true
+    versionRange="[26.3,26.4,)"
+    ordering="NONE"
+    side="BOTH"
+

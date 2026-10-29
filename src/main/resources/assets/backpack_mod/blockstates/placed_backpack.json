@@ -1,0 +1,100 @@
+{
+  "variants": {
+    "facing=south,level=0": {
+      "model": "backpack_mod:block/backpack",
+      "y": 0
+    },
+    "facing=west,level=0": {
+      "model": "backpack_mod:block/backpack",
+      "y": 90
+    },
+    "facing=north,level=0": {
+      "model": "backpack_mod:block/backpack",
+      "y": 180
+    },
+    "facing=east,level=0": {
+      "model": "backpack_mod:block/backpack",
+      "y": 270
+    },
+    "facing=south,level=1": {
+      "model": "backpack_mod:block/stone_backpack",
+      "y": 0
+    },
+    "facing=west,level=1": {
+      "model": "backpack_mod:block/stone_backpack",
+      "y": 90
+    },
+    "facing=north,level=1": {
+      "model": "backpack_mod:block/stone_backpack",
+      "y": 180
+    },
+    "facing=east,level=1": {
+      "model": "backpack_mod:block/stone_backpack",
+      "y": 270
+    },
+    "facing=south,level=2": {
+      "model": "backpack_mod:block/iron_backpack",
+      "y": 0
+    },
+    "facing=west,level=2": {
+      "model": "backpack_mod:block/iron_backpack",
+      "y": 90
+    },
+    "facing=north,level=2": {
+      "model": "backpack_mod:block/iron_backpack",
+      "y": 180
+    },
+    "facing=east,level=2": {
+      "model": "backpack_mod:block/iron_backpack",
+      "y": 270
+    },
+    "facing=south,level=3": {
+      "model": "backpack_mod:block/gold_backpack",
+      "y": 0
+    },
+    "facing=west,level=3": {
+      "model": "backpack_mod:block/gold_backpack",
+      "y": 90
+    },
+    "facing=north,level=3": {
+      "model": "backpack_mod:block/gold_backpack",
+      "y": 180
+    },
+    "facing=east,level=3": {
+      "model": "backpack_mod:block/gold_backpack",
+      "y": 270
+    },
+    "facing=south,level=4": {
+      "model": "backpack_mod:block/diamond_backpack",
+      "y": 0
+    },
+    "facing=west,level=4": {
+      "model": "backpack_mod:block/diamond_backpack",
+      "y": 90
+    },
+    "facing=north,level=4": {
+      "model": "backpack_mod:block/diamond_backpack",
+      "y": 180
+    },
+    "facing=east,level=4": {
+      "model": "backpack_mod:block/diamond_backpack",
+      "y": 270
+    },
+    "facing=south,level=5": {
+      "model": "backpack_mod:block/netherite_backpack",
+      "y": 0
+    },
+    "facing=west,level=5": {
+      "model": "backpack_mod:block/netherite_backpack",
+      "y": 90
+    },
+    "facing=north,level=5": {
+      "model": "backpack_mod:block/netherite_backpack",
+      "y": 180
+    },
+    "facing=east,level=5": {
+      "model": "backpack_mod:block/netherite_backpack",
+      "y": 270
+    }
+  }
+}

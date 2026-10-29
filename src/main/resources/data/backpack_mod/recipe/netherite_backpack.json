@@ -1,0 +1,17 @@
+{
+  "type": "backpack_mod:backpack_upgrade",
+  "category": "equipment",
+  "pattern": [
+    " M ",
+    "MBM",
+    " M "
+  ],
+  "key": {
+    "M": "minecraft:netherite_ingot",
+    "B": "backpack_mod:diamond_backpack"
+  },
+  "result": {
+    "id": "backpack_mod:netherite_backpack",
+    "count": 1
+  }
+}

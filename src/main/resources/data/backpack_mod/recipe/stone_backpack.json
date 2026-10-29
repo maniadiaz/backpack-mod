@@ -1,0 +1,17 @@
+{
+  "type": "backpack_mod:backpack_upgrade",
+  "category": "equipment",
+  "pattern": [
+    " M ",
+    "MBM",
+    " M "
+  ],
+  "key": {
+    "M": "minecraft:stone",
+    "B": "backpack_mod:backpack"
+  },
+  "result": {
+    "id": "backpack_mod:stone_backpack",
+    "count": 1
+  }
+}
