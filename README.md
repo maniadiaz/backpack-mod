@@ -2,6 +2,20 @@
 
 Versión **1.3.1** · Autor **Mania5diaz** · Minecraft **26.3** · Forge **66.0.6** · Java **25**.
 
+## Capturas del mod
+
+Los seis niveles de mochila colocados sobre bloques, de cuero a netherite.
+
+![Vista general de los seis niveles de mochila](docs/images/mochilas-todos-los-niveles.png)
+
+### Cuero, piedra y hierro
+
+![Mochilas de cuero, piedra y hierro](docs/images/mochilas-cuero-piedra-hierro.png)
+
+### Oro, diamante y netherite
+
+![Mochilas de oro, diamante y netherite](docs/images/mochilas-oro-diamante-netherite.png)
+
 ## Mochilas, espacio y plantillas
 
 | Nivel | Material | Espacios principales | Cuadrícula | Plantillas admitidas |
@@ -25,6 +39,8 @@ Cuero  Cofre  Cuero
 Cuero  Cuero  Cuero
 ```
 
+![Receta de la mochila de nivel 0: ocho cueros alrededor de un cofre](docs/images/recetas/nivel-0-cuero.png)
+
 Niveles 1–5: mochila anterior al centro y **cuatro materiales en cruz**. Las esquinas quedan vacías.
 
 ```text
@@ -34,6 +50,40 @@ vacío       Material           vacío
 ```
 
 Son los espacios 2, 4, 6 y 8 de la mesa, con la mochila en el 5. Materiales: piedra normal, lingotes de hierro, lingotes de oro, diamantes y lingotes de netherite. Cada mejora usa cuatro unidades y conserva objetos, nombre, plantillas y sus compartimentos.
+
+### Recetas de mejora por nivel
+
+Cada captura muestra la mochila del nivel anterior en el centro y los cuatro materiales en cruz.
+
+### Nivel 1: Piedra
+
+Mochila de nivel 0 + cuatro bloques de piedra.
+
+![Receta de mejora a mochila de piedra, nivel 1](docs/images/recetas/nivel-1-piedra.png)
+
+### Nivel 2: Hierro
+
+Mochila de nivel 1 + cuatro lingotes de hierro.
+
+![Receta de mejora a mochila de hierro, nivel 2](docs/images/recetas/nivel-2-hierro.png)
+
+### Nivel 3: Oro
+
+Mochila de nivel 2 + cuatro lingotes de oro.
+
+![Receta de mejora a mochila de oro, nivel 3](docs/images/recetas/nivel-3-oro.png)
+
+### Nivel 4: Diamante
+
+Mochila de nivel 3 + cuatro diamantes.
+
+![Receta de mejora a mochila de diamante, nivel 4](docs/images/recetas/nivel-4-diamante.png)
+
+### Nivel 5: Netherite
+
+Mochila de nivel 4 + cuatro lingotes de netherite.
+
+![Receta de mejora a mochila de netherite, nivel 5](docs/images/recetas/nivel-5-netherite.png)
 
 ## Fabricar e instalar plantillas
 
@@ -48,6 +98,52 @@ Todas usan **ocho tablas de madera de cualquier tipo**, incluso mezcladas, alred
 | Comida | Una azada de cualquier material; la de madera sirve | 3 |
 | Flechas | Una flecha normal | 4 |
 | Cajas de shulker | Un cofre de Ender | 5 |
+
+### Capturas de las recetas de plantillas
+
+En todas las recetas, rodea el ingrediente central con ocho tablas de madera.
+
+#### Mesa de crafteo
+
+Centro: una mesa de crafteo. Nivel mínimo de mochila: **0**.
+
+![Receta de la plantilla de mesa de crafteo](docs/images/recetas/plantillas/mesa-de-crafteo.png)
+
+#### Horno
+
+Centro: un horno. Nivel mínimo de mochila: **1**.
+
+![Receta de la plantilla de horno](docs/images/recetas/plantillas/horno.png)
+
+#### Alto horno
+
+Centro: un alto horno. Nivel mínimo de mochila: **2**.
+
+![Receta de la plantilla de alto horno](docs/images/recetas/plantillas/alto-horno.png)
+
+#### Ahumador
+
+Centro: un ahumador. Nivel mínimo de mochila: **2**.
+
+![Receta de la plantilla de ahumador](docs/images/recetas/plantillas/ahumador.png)
+
+#### Comida
+
+Centro: una azada de cualquier material; la captura muestra una de madera. Nivel mínimo de mochila: **3**.
+
+![Receta de la plantilla de comida](docs/images/recetas/plantillas/comida.png)
+
+#### Flechas
+
+Centro: una flecha normal. Nivel mínimo de mochila: **4**.
+
+![Receta de la plantilla de flechas](docs/images/recetas/plantillas/flechas.png)
+
+#### Cajas de shulker
+
+Centro: un cofre de Ender. Nivel mínimo de mochila: **5**.
+
+![Receta de la plantilla de cajas de shulker](docs/images/recetas/plantillas/cajas-de-shulker.png)
 
 Abre la mochila y coloca la plantilla en su espacio correspondiente del panel lateral correspondiente. El botón contiguo se habilita al instalarla. Los espacios bloqueados indican el nivel mínimo al pasar el cursor. Se instala una plantilla de cada tipo; puedes retirarla después.
 
