@@ -235,6 +235,19 @@ Las cajas de shulker que ya estuvieran en el inventario principal de una mochila
 
 Cierra Minecraft completamente antes de cambiar de jar. Deja un solo jar de Backpack-mod instalado. En multijugador, servidor y clientes deben usar la nueva versión. No se copia automáticamente ningún jar a CurseForge ni se modifica la instancia personal.
 
+## Reportar errores y problemas
+
+Si encuentras un bug o cualquier problema con Backpack-mod, abre un [issue en GitHub](https://github.com/maniadiaz/backpack-mod/issues). Revisa primero si alguien ya lo ha reportado.
+
+Usa la etiqueta adecuada al problema, por ejemplo `bug` para un error. Si GitHub no te permite asignar etiquetas, indica el tipo de problema en el reporte para que el mantenedor lo etiquete.
+
+Incluye lo siguiente para facilitar su revisión:
+
+- **Descripción:** qué ocurrió y qué esperabas que ocurriera.
+- **Pasos para reproducirlo:** explica cómo provocar el problema e indica el nivel de la mochila y las plantillas utilizadas.
+- **Versiones:** Minecraft, Forge, Backpack-mod y otros mods instalados, si corresponde.
+- **Pruebas del problema o error:** adjunta capturas, un video, el mensaje de error, el archivo `latest.log` o el informe de cierre inesperado (`crash-report`), según corresponda.
+
 ## Compilar y probar
 
 ```powershell
