@@ -161,6 +161,52 @@ Quitar una plantilla desactiva su función, pero **no borra sus objetos**. Reins
 
 La interfaz es transparente, sin panel de fondo, desenfoque ni oscurecimiento del mundo. A la izquierda están crafteo y los tres hornos; a la derecha comida, flechas y shulker. Cada botón está junto al espacio de su plantilla. La pantalla ajusta su escala para caber en la ventana sin cambiar la preferencia global de escala GUI. Los hornos señalan entrada, combustible y salida. Admiten los combustibles de Minecraft, incluidos carbón, carbón vegetal, tablas y cubos de lava, y no cocinan sin combustible.
 
+## Interfaces de las plantillas
+
+Capturas de las siete interfaces en una mochila de netherite de nivel 5. Muestran la distribución de los espacios, los controles laterales y el fondo transparente.
+
+### Mesa de crafteo
+
+Cuadrícula de crafteo 3×3 y espacio para el resultado.
+
+![Interfaz de la plantilla de mesa de crafteo](docs/images/interfaces/mesa-de-crafteo.png)
+
+### Horno
+
+Espacios de entrada, combustible y salida, con indicadores de cocción.
+
+![Interfaz de la plantilla de horno](docs/images/interfaces/horno.png)
+
+### Alto horno
+
+Interfaz de fundición con entrada, combustible y salida.
+
+![Interfaz de la plantilla de alto horno](docs/images/interfaces/alto-horno.png)
+
+### Ahumador
+
+Interfaz para cocinar alimentos con entrada, combustible y salida.
+
+![Interfaz de la plantilla de ahumador](docs/images/interfaces/ahumador.png)
+
+### Comida
+
+Cuatro espacios para comida; la captura muestra una pila de 64 alimentos en el primero.
+
+![Interfaz de la plantilla de comida](docs/images/interfaces/comida.png)
+
+### Flechas
+
+Espacio de munición para el arco y la ballesta al llevar la mochila equipada.
+
+![Interfaz de la plantilla de flechas](docs/images/interfaces/flechas.png)
+
+### Cajas de shulker
+
+Compartimento 3×3 ocupado por nueve cajas de shulker.
+
+![Interfaz de la plantilla de cajas de shulker](docs/images/interfaces/cajas-de-shulker.png)
+
 ## Equipar, abrir y colocar
 
 - Consigue la básica con `/give @s backpack_mod:backpack`, por receta o como botín de un mob portador.
